@@ -38,6 +38,6 @@ SQL Query – INSERT INTO ![https://github.com/Agata-PowerBI/From-Entity-Relatio
 
 Power BI Car Sales – pbit file PBI ![https://github.com/Agata-PowerBI/From-Entity-Relationship-Diagrams-to-Data-Visualisations-in-Power-BI-Desktop/blob/main/Car%20Sales%20pbit%20file.pbit]
 
-PBI Dashboard screenshot 
+PBI Dashboard screenshot ![https://github.com/Agata-PowerBI/From-Entity-Relationship-Diagrams-to-Data-Visualisations-in-Power-BI-Desktop/blob/main/PBI%20Dashboard%20screenshot.png]
 
 
