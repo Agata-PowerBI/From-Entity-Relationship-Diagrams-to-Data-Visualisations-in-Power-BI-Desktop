@@ -30,6 +30,7 @@ Power BI Desktop:
 File format .pbix for development .png for dashboard previews
 
 7. Attachments:
+   
 ERD Car Sales – Diagram ![https://github.com/Agata-PowerBI/From-Entity-Relationship-Diagrams-to-Data-Visualisations-in-Power-BI-Desktop/blob/main/Car%20Sales%20pbit%20file.pbit]
 
 SQL Query – CREATE TABLE ![https://github.com/Agata-PowerBI/From-Entity-Relationship-Diagrams-to-Data-Visualisations-in-Power-BI-Desktop/blob/main/SQLQuery%20CREATE%20TABLE.sql]
