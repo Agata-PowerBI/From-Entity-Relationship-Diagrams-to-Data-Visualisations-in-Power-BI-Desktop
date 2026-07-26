@@ -36,7 +36,8 @@ SQL Query – CREATE TABLE ![https://github.com/Agata-PowerBI/From-Entity-Relati
 
 SQL Query – INSERT INTO ![https://github.com/Agata-PowerBI/From-Entity-Relationship-Diagrams-to-Data-Visualisations-in-Power-BI-Desktop/blob/main/SQL%20Query%20INSERT%20INTO.sql]
 
-Power BI Car Sales – pbit file PBI 
-PBI Dashboard screenshot
+Power BI Car Sales – pbit file PBI ![https://github.com/Agata-PowerBI/From-Entity-Relationship-Diagrams-to-Data-Visualisations-in-Power-BI-Desktop/blob/main/Car%20Sales%20pbit%20file.pbit]
+
+PBI Dashboard screenshot 
 
 
