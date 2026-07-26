@@ -34,8 +34,9 @@ ERD Car Sales – Diagram ![https://github.com/Agata-PowerBI/From-Entity-Relatio
 
 SQL Query – CREATE TABLE ![https://github.com/Agata-PowerBI/From-Entity-Relationship-Diagrams-to-Data-Visualisations-in-Power-BI-Desktop/blob/main/SQLQuery%20CREATE%20TABLE.sql]
 
-SQL Query – INSERT INTO
-Power BI Car Sales – pbit file PBI
+SQL Query – INSERT INTO ![https://github.com/Agata-PowerBI/From-Entity-Relationship-Diagrams-to-Data-Visualisations-in-Power-BI-Desktop/blob/main/SQL%20Query%20INSERT%20INTO.sql]
+
+Power BI Car Sales – pbit file PBI 
 PBI Dashboard screenshot
 
 
